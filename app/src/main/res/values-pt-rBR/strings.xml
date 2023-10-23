@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasicMenu</string>
+    <string name="txt_hello">Olá, mundo!</string>
+    <string name="mni_settings">Configurações</string>
+    <string name="mni_logout">Sair</string>
+    <string name="mni_about">Sobre</string>
+    <string name="txt_pressed">pressionado...</string>
+</resources>
